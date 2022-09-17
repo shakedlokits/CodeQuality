@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="650" height="250" src="res/codequality.svg.png">
+  <img width="650" height="250" src="https://raw.githubusercontent.com/shakedlokits/CodeQuality/master/res/codequality.svg.png">
 </p>
 
 The following document introduces the my perspective on the integration of SonarQube and it's role within the code quality tool-set from **my experiences as a solutions architect, designing a code quality metric infrastructure at RedHat for the past 2 years.** Here you will find the project summary, compatibility matrix, workflows and additional reading materials on specific subjects.
